@@ -1,4 +1,5 @@
 # MERN Screen Recorder – Take-Home Assignment
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-brightgreen)](https://screenrecorderwebapp.netlify.app/)
 
 ## 1. Project Overview
 
