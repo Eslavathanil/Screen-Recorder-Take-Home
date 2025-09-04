@@ -2,10 +2,11 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-brightgreen)](https://screenrecorderwebapp.netlify.app/)
 
 ## 1. Project Overview
+![App Screenshot](https://res.cloudinary.com/dp8gu4t9m/image/upload/v1756966860/Screenshot_2025-09-04_114814_luimer.png)
 
 This project is a web-based screen recorder application built with the MERN stack (using SQL instead of MongoDB).  
 It allows users to record their current browser tab with microphone audio, preview the recording, download it, and upload it to a Node.js backend where the metadata is stored in an SQL database.
-![App Screenshot](Screenshot%202025-09-04%20114814.png)
+
 ### Core Features
 
 - **Frontend (React):**
